@@ -1,5 +1,5 @@
  <a href="https://twitter.com/devarthurribeiro">
-  <img align="left" alt="Marlonn Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Marlonn Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="fill:#0562DC"  />
 </a>
 <a href="https://linkedin.com/in/devarthurribeiro">
   <img align="left" alt="Marlonn Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
