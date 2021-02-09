@@ -1,16 +1,25 @@
-### Hi there 👋
+ <a href="https://twitter.com/devarthurribeiro">
+  <img align="left" alt="Marlonn Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/devarthurribeiro">
+  <img align="left" alt="Marlonn Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/devarthurribeiro">
+  <img align="left" alt="Marlonn Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/arthurribeirodev">
+  <img align="left" alt="Marlonn Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/arthurribeirodev">
+  <img align="left" alt="Marlonn Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
-<!--
-**MarlonnCarvalhosa/MarlonnCarvalhosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=marlonncarvalhosa&&show_icons=true&line_height=27&v=5" alt="Marlonn carvalhosa GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonncarvalhosa&hide=css" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/marlonncarvalhosa/count.svg" />
+</p>
