@@ -1,19 +1,12 @@
- <a href="https://twitter.com/devarthurribeiro">
-  <img align="left" alt="Marlonn Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="fill:#0562DC"  />
+ <a href="https://marlonncarvalhosa.vercel.app">
+  <img align="left" alt="Marlonn Portifólio" width="22px" src="https://i.imgur.com/FiUEAxQ.png" />
 </a>
-<a href="https://linkedin.com/in/devarthurribeiro">
-  <img align="left" alt="Marlonn Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://linkedin.com/in/marlonncarvalhosa">
+  <img align="left" alt="Marlonn Linkdein" width="22px" src="https://i.imgur.com/6gaWoLa.png" />
 </a>
-<a href="https://github.com/devarthurribeiro">
-  <img align="left" alt="Marlonn Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://instagram.com/marlonncarvalhosa">
+  <img align="left" alt="Marlonn Instagram" width="22px" src="https://i.imgur.com/lax1IIS.png" />
 </a>
-<a href="https://instagram.com/arthurribeirodev">
-  <img align="left" alt="Marlonn Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/arthurribeirodev">
-  <img align="left" alt="Marlonn Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
 <br/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=marlonncarvalhosa&&show_icons=true&line_height=27&v=5" alt="Marlonn carvalhosa GitHub Stats" />
