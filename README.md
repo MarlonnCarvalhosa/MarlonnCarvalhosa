@@ -1,7 +1,7 @@
  <a href="https://marlonncarvalhosa.vercel.app" target="_blank">
   <img align="left" alt="Marlonn Portifólio" width="22px" src="https://i.imgur.com/FiUEAxQ.png" />
 </a>
-<a href="https://linkedin.com/in/marlonncarvalhosa" target="_blank">
+<a href="https://linkedin.com/in/marlonn-carvalhosa" target="_blank">
   <img align="left" alt="Marlonn Linkdein" width="22px" src="https://i.imgur.com/6gaWoLa.png" />
 </a>
 <a href="https://instagram.com/marlonncarvalhosa" target="_blank">
