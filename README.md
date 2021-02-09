@@ -1,10 +1,10 @@
- <a href="https://marlonncarvalhosa.vercel.app">
+ <a href="https://marlonncarvalhosa.vercel.app" target="_blank">
   <img align="left" alt="Marlonn Portifólio" width="22px" src="https://i.imgur.com/FiUEAxQ.png" />
 </a>
-<a href="https://linkedin.com/in/marlonncarvalhosa">
+<a href="https://linkedin.com/in/marlonncarvalhosa" target="_blank">
   <img align="left" alt="Marlonn Linkdein" width="22px" src="https://i.imgur.com/6gaWoLa.png" />
 </a>
-<a href="https://instagram.com/marlonncarvalhosa">
+<a href="https://instagram.com/marlonncarvalhosa" target="_blank">
   <img align="left" alt="Marlonn Instagram" width="22px" src="https://i.imgur.com/lax1IIS.png" />
 </a>
 <br/>
