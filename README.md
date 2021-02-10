@@ -10,7 +10,7 @@
 <br/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=marlonncarvalhosa&&show_icons=true&line_height=27&v=5&theme=tokyonight" alt="Marlonn carvalhosa GitHub Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonncarvalhosa&hide=css&theme=radical&layout=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonncarvalhosa&hide=css&theme=tokyonight&layout=compact" />
 
 <p align="center"> 
   Visitor count<br>
