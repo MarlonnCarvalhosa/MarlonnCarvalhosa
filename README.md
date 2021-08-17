@@ -1,4 +1,4 @@
-## Olá! Eu sou a Marlonn Carvalhosa 
+## Olá! Eu sou o Marlonn Carvalhosa 
  <div>
   <a href="https://github.com/marlonncarvalhosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marlonncarvalhosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
